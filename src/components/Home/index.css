@@ -1,0 +1,10 @@
+.homeContainer h1 {
+  color: white;
+  font-family: 'Bree Serif';
+
+  margin-left: 10px;
+}
+.home-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+}

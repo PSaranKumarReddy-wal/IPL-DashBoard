@@ -1,0 +1,12 @@
+.latestmatch {
+  color: white;
+  font-family: 'Bree Serif';
+  background-color: #1e293b;
+  padding: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.matchDetail {
+  text-align: right;
+}

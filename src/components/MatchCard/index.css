@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.carddesign {
+  color: white;
+  font-family: 'Bree Serif';
+  background-color: #0f172a;
+  border: 2px solid white;
+  text-align: center;
+  border-radius: 40px;
+  margin-right: 110px;
+  margin-bottom: 50px;
+}
